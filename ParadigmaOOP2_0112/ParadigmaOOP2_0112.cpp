@@ -24,8 +24,12 @@ public:
 
     }
 };
+
 int main()
 {
-    
+    seseorang* obyek;
+    joko a;
+    Lia b;
+
 }
 
