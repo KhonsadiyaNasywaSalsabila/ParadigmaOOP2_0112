@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class AstraksiKlas {
+class AbstraksiKlas {
 private: string x, y;
 
 public:
@@ -20,6 +20,7 @@ public:
 
 int main()
 {
-   
+	AbstraksiKlas ak;
+	
 }
 
